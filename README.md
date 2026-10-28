@@ -16,8 +16,8 @@
 ### ୨୧ ➜ stack
 
 `python` `javascript` `typescript` `luau`
-`c#` `c++` `rust`
-`html` `css` `react` `next.js` `svelte`
+`c#` `c++`
+`html/css` `react` `next.js` `vite` `svelte`
 
 ### ୨୧ ➜ backend / infra
 
@@ -26,11 +26,11 @@
 
 ### ୨୧ ➜ tools
 
-`figma` `photoshop` `fl studio` `roblox studio` `blender` `ahk` `openiv`
+`figma` `photoshop` `paint.net` `fl studio` `roblox studio` `blender` `ahk` `openiv`
 
 ### ୨୧ ➜ learning
 
-`java` `go` `rust` `ruby` `R`
+`java` `go`
 `unity` `unreal engine`
 
 ---
